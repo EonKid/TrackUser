@@ -1,9 +1,8 @@
 //
 //  UIButtonDesign.swift
 //
-//  Created by Dhruv Singh on 23/02/18.
-//  Copyright © 2018 Dhruv. All rights reserved.
-//
+//  Created by Dhruv  on 5/19/18.
+//  Copyright © 2018 Dhruv . All rights reserved.
 
 import UIKit
 @IBDesignable
