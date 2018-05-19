@@ -2,8 +2,8 @@
 //  UIButtonDesign.swift
 //  FlyZone
 //
-//  Created by Dhruv Singh on 23/02/17.
-//  Copyright © 2017 toxsl. All rights reserved.
+//  Created by Dhruv Singh on 23/02/18.
+//  Copyright © 2017 Dhruv. All rights reserved.
 //
 
 import UIKit
