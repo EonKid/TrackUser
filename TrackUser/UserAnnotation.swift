@@ -1,5 +1,5 @@
 //
-//  AnnotationModal.swift
+//  UserAnnotation.swift
 //  TrackUser
 //
 //  Created by Dhruv  on 5/19/18.
