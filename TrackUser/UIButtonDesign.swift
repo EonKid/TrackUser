@@ -2,7 +2,7 @@
 //  UIButtonDesign.swift
 //
 //  Created by Dhruv Singh on 23/02/18.
-//  Copyright © 2017 Dhruv. All rights reserved.
+//  Copyright © 2018 Dhruv. All rights reserved.
 //
 
 import UIKit
