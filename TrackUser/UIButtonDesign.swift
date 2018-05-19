@@ -1,6 +1,5 @@
 //
 //  UIButtonDesign.swift
-//  FlyZone
 //
 //  Created by Dhruv Singh on 23/02/18.
 //  Copyright © 2017 Dhruv. All rights reserved.
